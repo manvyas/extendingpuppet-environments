@@ -5,9 +5,7 @@ forge "https://forgeapi.puppetlabs.com"
 
 mod 'puppetlabs-stdlib'
 
-mod 'puppetlabs-ntp',
-  :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git'
-   :ref => '0.3.0'
+mod 'puppetlabs-ntp', '0.3.0'
 
 mod 'puppetlabs-apt',
   :git => 'https://github.com/puppetlabs/puppetlabs-apt.git',

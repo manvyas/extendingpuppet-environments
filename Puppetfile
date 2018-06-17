@@ -18,4 +18,4 @@ mod 'testrepo',
 mod 'puppetlabs-apache', '1.11.0'
 mod 'puppetlabs-mysql', '3.10.0'
 mod 'mayflower-php', '4.0.0-beta1'
-mod 'puppetlabs-concat'
+mod 'puppetlabs-concat', '2.1.0'
